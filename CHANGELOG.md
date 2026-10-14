@@ -4,7 +4,7 @@ Transparent. Fiecare rulare a `hydraCoreRepo` recommit `SYSTEM_STATE.json`.
 
 ## [Unreleased]
 
-### 2026-10-13T15:42:31.344Z
+### 2026-10-14T09:33:04.818Z
 - **Inițializare** — repo creat de Hydra în numele Nostru.
 - Manifest viu PSIE publicat.
-- Stare sistem (J=31790, SDI=1e-93, paradoxuri nerezolvate=0).
+- Stare sistem (J=31693, SDI=0.00966183574879227, paradoxuri nerezolvate=0).
