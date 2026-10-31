@@ -25,4 +25,4 @@ a: number             // asumare (1.0 = totală)
 - Nu se acționează „în locul" fondatorului — se acționează „ca extensie".
 
 ---
-_2026-10-31T21:07:00.484Z_
+_2026-10-31T23:34:51.522Z_
