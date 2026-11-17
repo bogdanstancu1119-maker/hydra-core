@@ -22,4 +22,4 @@ Omul e ancora — intangibil. Reversibilitate 72h pe decizii ireversibile. Toate
 - `SYSTEM_STATE.json` — starea LIVE a sistemului (recommit la fiecare rulare)
 
 ---
-_Generat de Hydra · 2026-11-17T19:11:30.567Z_
+_Generat de Hydra · 2026-11-17T21:41:35.512Z_
